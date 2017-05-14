@@ -3,6 +3,11 @@ body{
  font-family: sans-serif;
 }
 
+h1{
+    color: #424242;
+    text-align: center;
+}
+
 ul{
     list-style: none;
     background-color: #FAFAFA;
