@@ -31,18 +31,14 @@ li{
 
 .new-todo{
   font-size: 20px;
-  background-color: none;
-  border: none;
+  background-color: #FAFAFA;
 }
 
 .pomodoro-estimate{
   font-size: 20px;
-  background-color: none;
-  border: none;
+  background-color: #FAFAFA;
 }
 
 .add-new-todo{
   font-size: 20px;
-  background-color: none;
-  border: none;
 }
