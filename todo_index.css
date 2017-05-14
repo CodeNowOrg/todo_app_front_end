@@ -20,6 +20,7 @@ ul{
 
 li{
   margin-bottom: 10px;
+  padding: 5px 0px 5px 0px;
 }
 
 .new-todo-block{
@@ -40,4 +41,5 @@ li{
 
 .add-new-todo{
   font-size: 20px;
+  border: none;
 }
