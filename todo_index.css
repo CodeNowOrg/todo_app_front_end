@@ -25,3 +25,15 @@ li{
 .new-todo-block{
   width: 60%;
 }
+
+.new-todo{
+  font-size: 20px;
+}
+
+.pomodoro-estimate{
+  font-size: 20px;
+}
+
+.add-new-todo{
+  font-size: 20px;
+}
