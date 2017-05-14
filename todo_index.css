@@ -1,6 +1,6 @@
 body{
  color: #424242;
- background-color: #CFD8DC;
+ background-color: #E1F5FE;
  font-family: sans-serif;
 }
 
@@ -11,7 +11,7 @@ h1{
 
 ul{
   list-style: none;
-  background-color: #FAFAFA;
+  background-color: #FFF;
   font-size: 20px;
   padding: 20px;
   width: 60%;
@@ -26,7 +26,7 @@ li{
 }
 
 li:hover{
-  background-color: #ECEFF1;
+  background-color: #E1F5FE;
   border-radius: 3px;
 }
 
@@ -37,7 +37,7 @@ li:hover{
 
 .new-todo{
   font-size: 20px;
-  background-color: #FAFAFA;
+  background-color: #FFF;
   outline: none;
   border-style: none;
   padding: 5px;
@@ -47,7 +47,7 @@ li:hover{
 
 .pomodoro-estimate{
   font-size: 20px;
-  background-color: #FAFAFA;
+  background-color: #FFF;
   outline: none;
   border-style: none;
   padding: 5px;
