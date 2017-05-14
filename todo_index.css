@@ -1,7 +1,9 @@
 body{
  background-color: #CFD8DC;
+ font-family: sans-serif;
 }
 
 ul{
     list-style: none;
+    background-color: #FAFAFA;
 }
