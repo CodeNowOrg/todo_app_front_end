@@ -16,6 +16,7 @@ ul{
   padding: 20px;
   width: 60%;
   margin: 0 auto;
+  border-radius: 5px;
 }
 
 li{
@@ -34,6 +35,7 @@ li{
   outline: none;
   border-style: none;
   padding: 5px;
+  border-radius: 3px;
 }
 
 .pomodoro-estimate{
@@ -42,6 +44,7 @@ li{
   outline: none;
   border-style: none;
   padding: 5px;
+  border-radius: 3px;
 }
 
 .add-new-todo{
