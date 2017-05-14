@@ -30,10 +30,12 @@ li{
 
 .new-todo{
   font-size: 20px;
+  border: none;
 }
 
 .pomodoro-estimate{
   font-size: 20px;
+  border: none;
 }
 
 .add-new-todo{
