@@ -24,6 +24,10 @@ li{
   padding: 5px 0px 5px 0px;
 }
 
+li:hover{
+  background-color: #ECEFF1;
+}
+
 .new-todo-block{
   width: 60%;
   margin: 20px auto 0px auto;
