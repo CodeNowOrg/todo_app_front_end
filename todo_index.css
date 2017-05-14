@@ -24,6 +24,7 @@ li{
 
 .new-todo-block{
   width: 60%;
+  margin: 0 auto;
 }
 
 .new-todo{
