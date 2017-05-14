@@ -35,6 +35,10 @@ li:hover{
   border-radius: 3px;
 }
 
+.completed-todo{
+  text-decoration: line-through;
+}
+
 .pomodoro-estimate{
   font-weight: bold;
   font-size: 14px;
@@ -42,10 +46,6 @@ li:hover{
   background-color: #F5F5F5;
   padding: 5 10px 5px 10px;
   border-radius: 50px;
-}
-
-.complete-todo{
-  text-decoration: line-through;
 }
 
 .new-todo-block{
