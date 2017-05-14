@@ -33,12 +33,14 @@ li{
   font-size: 20px;
   background-color: #FAFAFA;
   outline: none;
+  border-style: none;
 }
 
 .pomodoro-estimate{
   font-size: 20px;
   background-color: #FAFAFA;
   outline: none;
+  border-style: none;
 }
 
 .add-new-todo{
