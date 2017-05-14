@@ -21,3 +21,7 @@ ul{
 li{
   margin-bottom: 10px;
 }
+
+.new-todo-input-block{
+  width: 60%;
+}
