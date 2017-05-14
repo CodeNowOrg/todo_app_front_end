@@ -25,8 +25,7 @@ li{
 
 .new-todo-block{
   width: 60%;
-  margin: 0 auto;
-  margin-top: 20px;
+  margin: 20px auto 0px auto;
 }
 
 .new-todo{
@@ -34,6 +33,7 @@ li{
   background-color: #FAFAFA;
   outline: none;
   border-style: none;
+  padding: 5px;
 }
 
 .pomodoro-estimate{
@@ -41,6 +41,7 @@ li{
   background-color: #FAFAFA;
   outline: none;
   border-style: none;
+  padding: 5px;
 }
 
 .add-new-todo{
