@@ -1,10 +1,10 @@
 body{
+ color: #424242;
  background-color: #CFD8DC;
  font-family: sans-serif;
 }
 
 h1{
-  color: #424242;
   text-align: center;
   margin-top: 20px;
 }
@@ -22,11 +22,12 @@ ul{
 
 li{
   margin-bottom: 10px;
-  padding: 5px 0px 5px 0px;
+  padding: 5px;
 }
 
 li:hover{
   background-color: #ECEFF1;
+  border-radius: 3px;
 }
 
 .new-todo-block{
