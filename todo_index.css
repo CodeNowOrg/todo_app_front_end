@@ -4,20 +4,20 @@ body{
 }
 
 h1{
-    color: #424242;
-    text-align: center;
-    margin-top: 20px;
+  color: #424242;
+  text-align: center;
+  margin-top: 20px;
 }
 
 ul{
-    list-style: none;
-    background-color: #FAFAFA;
-    font-size: 20px;
-    padding: 20px;
-    width: 60%;
-    margin: 0 auto;
+  list-style: none;
+  background-color: #FAFAFA;
+  font-size: 20px;
+  padding: 20px;
+  width: 60%;
+  margin: 0 auto;
 }
 
 li{
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
