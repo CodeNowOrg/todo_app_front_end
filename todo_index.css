@@ -55,6 +55,15 @@ li:hover{
   box-shadow: 1px 1px 1px #90A4AE;
 }
 
-.add-new-todo{
+.add-new-todo-button{
+  display: block;
+  margin-top: 10px;
   font-size: 20px;
+  background-color: #F44336;
+  color: #FFF;
+  outline: none;
+  border-style: none;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 1px #90A4AE;
 }
