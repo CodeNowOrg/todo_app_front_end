@@ -44,6 +44,10 @@ li:hover{
   border-radius: 50px;
 }
 
+.complete-todo{
+  text-decoration: line-through;
+}
+
 .new-todo-block{
   width: 60%;
   margin: 20px auto 0px auto;
