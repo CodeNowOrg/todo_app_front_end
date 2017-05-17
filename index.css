@@ -35,6 +35,10 @@ li:hover{
   border-radius: 3px;
 }
 
+a:active{
+  font-style: none;
+}
+
 .completed-todo{
   text-decoration: line-through;
 }
