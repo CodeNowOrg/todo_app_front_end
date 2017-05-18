@@ -16,7 +16,6 @@ $(document).ready(function() {
         // Clear the input fields for new-todo-description and pomdoro-estimate by entering an empty string as the value
         description.val("")
         pomodoroEstimate.val("")
-        
     })
 })
 

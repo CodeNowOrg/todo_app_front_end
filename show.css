@@ -1,32 +1,3 @@
-
-/*repeated styles*/
-body{ 
- color: #424242;
- background-color: #ECEFF1;
- font-family: sans-serif;
-}
-
-/*repeated styles*/
-.todo-card{
-  background-color: #FFF;
-  padding: 20px;
-  width: 60%;
-  margin: 0 auto;
-  border-radius: 5px;
-  box-shadow: 1px 1px 1px #90A4AE;
-}
-
-/*repeated styles*/
-h1{
-  color: #03A9F4;
-  text-align: center;
-  margin-top: 20px;
-}
-
-.company-logo{
-  width: 150px;
-}
-
 h2{
   display: inline-block;
   vertical-align: middle;
@@ -38,70 +9,20 @@ span{
   margin-top: 0px;
   display: block;
   width: 130px;
-  font-weight: bold;
   font-size: 20px;
-  color: #F44336;
-  background-color: #F5F5F5;
   padding: 10px 15px 10px 15px;
-  border-radius: 50px;
   margin-bottom: 20px;
 }
 
-/*repeated styles*/
-a{
-  text-decoration: none;
-  color: #424242;
-  vertical-align: middle;
-}
-
-/*repeated styles*/
 #edit-todo-button{
-  font-size: 20px;
-  text-align: center;
-  color: #FFF;
-  outline: none;
-  border-style: none;
-  padding: 10px;
-  border-radius: 3px;
-  box-shadow: 2px 2px 1px #90A4AE;
-  
   display: inline-block;
   width: 40px;
   background-color: #1ABC9C;
   margin-right: 5px;
 }
 
-#edit-todo-button:active{
-  box-shadow: 1px 1px 1px #90A4AE;
-}
-
-/*repeated styles*/
 #delete-todo-button{
-  font-size: 20px;
-  text-align: center;
-  color: #FFF;
-  outline: none;
-  border-style: none;
-  padding: 10px;
-  border-radius: 3px;
-  box-shadow: 2px 2px 1px #90A4AE;
-  
   display: inline-block;
   width: 60px;
   background-color: #F44336;
-}
-
-#delete-todo-button:active{
-  box-shadow: 1px 1px 1px #90A4AE;
-}
-
-.go-back{
-  display: block;
-  margin-top: 20px;
-  text-decoration: underline;
-  color: #9E9E9E;
-}
-
-.go-back:active{
-  color: #212121;
 }

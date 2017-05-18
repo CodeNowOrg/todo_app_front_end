@@ -1,0 +1,74 @@
+body{ 
+ color: #424242;
+ background-color: #ECEFF1;
+ font-family: sans-serif;
+}
+
+h1{
+  color: #03A9F4;
+  text-align: center;
+  margin-top: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: #424242;
+  vertical-align: middle;
+}
+
+.company-logo{
+  width: 150px;
+}
+
+.card{
+  background-color: #FFF;
+  padding: 20px;
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #90A4AE;
+}
+
+.pomodoro-estimate{
+  font-weight: bold;
+  color: #F44336;
+  background-color: #F5F5F5;
+  border-radius: 50px;
+}
+
+.text-input{
+  font-size: 20px;
+  background-color: #FFF;
+  outline: none;
+  border-style: none;
+  padding: 5px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px #90A4AE;
+}
+
+.button{
+  font-size: 20px;
+  text-align: center;
+  color: #FFF;
+  outline: none;
+  border-style: none;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 1px #90A4AE;
+}
+
+.button:active{
+  box-shadow: 1px 1px 1px #90A4AE;
+}
+
+
+.simple-link{
+  display: block;
+  margin-top: 20px;
+  text-decoration: underline;
+  color: #9E9E9E;
+}
+
+.simple-link:active{
+  color: #212121;
+}
