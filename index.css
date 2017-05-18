@@ -38,6 +38,7 @@ li:hover{
 a{
   text-decoration: none;
   color: #424242;
+  vertical-align: middle;
 }
 
 .completed-todo{
@@ -49,7 +50,7 @@ a{
   font-size: 14px;
   color: #F44336;
   background-color: #F5F5F5;
-  padding: 5 10px 5px 10px;
+  padding: 5px 10px 5px 10px;
   border-radius: 50px;
 }
 
@@ -79,16 +80,18 @@ a{
 }
 
 #add-new-todo-button{
-  display: block;
-  margin-top: 10px;
   font-size: 20px;
-  background-color: #03A9F4;
+  text-align: center;
   color: #FFF;
   outline: none;
   border-style: none;
   padding: 10px;
   border-radius: 3px;
   box-shadow: 2px 2px 1px #90A4AE;
+  
+  display: block;
+  background-color: #03A9F4;
+  margin-top: 10px;
 }
 
 #add-new-todo-button:active{
