@@ -1,4 +1,4 @@
-# CodeNow Sample Todo Application - Front End
+# CodeNow Sample Todo Application - Front End Mockup
 Welcome to the codebase for the front-end mock-up of CodeNow’s Sample Todo Application. 
 
 You will use this front-end code to introduce students to HTML, CSS, and jQuery during weekend one of the workshop.
