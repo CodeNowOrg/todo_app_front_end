@@ -6,7 +6,7 @@ You can use this code as a resource for the concepts you will introduce students
 
 ### Screenshots
   **1. Todo Index Page**
-    ![Todo index page](https://github.com/CodeNowOrg/todo_app_front_end/blob/master/screenshots/01.png "Todo index page")
+    ![Todo index page](/screenshots/01.png "Todo index page")
   
   **2. Add a todo**
     ![Add a todo](/screenshots/02.png "Add a todo")
