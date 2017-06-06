@@ -1,6 +1,6 @@
-# CodeNow Sample Todo Application - [Front End Mockup](https://codenoworg.github.io/todo_app_front_end/ "Front end mockup")
+# CodeNow Sample Todo Application - [Front-End Mockup](https://codenoworg.github.io/todo_app_front_end/ "Front-End Mockup")
 
-This is the codebase for the front-end mock-up of CodeNow’s Sample Todo Application. Click the link in the title to view the mockup hosted using GitHub pages.
+This is the codebase for the front-end mockup of CodeNow’s Sample Todo Application. Click the link in the title to view the mockup hosted using GitHub pages.
 
 You can use this code as a resource for the concepts you will introduce students to during weekend one of the workshop.
 
